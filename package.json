@@ -2,8 +2,9 @@
   "name": "cv-react-2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://heeropunjabi.github.io/portfolio",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.1.1",
     "react": "^16.8.6",
     "react-awesome-resume": "file:../react-awesome-resume",
     "react-dom": "^16.8.6",

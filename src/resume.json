@@ -216,14 +216,12 @@
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "Django",
-        "flask",
-        "Ruby on Rails",
+        "HTML",
+        "CSS",
+        "Core-JS",
         "Bootstrap",
         "D3",
-        "Selenium",
-        "Stripe",
-        "Netlify"
+        "angular-1.5"
       ]
     },
     {
