@@ -1,0 +1,288 @@
+{
+  "basics": {
+    "name": "Heero Punjabi",
+    "label": "Engineering Lead",
+    "picture": "https://avatars0.githubusercontent.com/u/3514019?s=400&u=76430fe866faa35a2c13a1bfa76b62bc41385487&v=4",
+    "email": "heeropunjabi@gmail.com",
+    "phone": "+91-8208048223",
+    "summary": "My biggest assets are learning, research and communication to make the world class Products. I strongly believe software is going to replace lot of industries worldwide.",
+    "location": {
+      "address": "43 privet drive",
+      "postalCode": "411045",
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "heero-punjabi-16b53221",
+        "url": "https://www.linkedin.com/in/heero-punjabi-16b53221/"
+      },
+      {
+        "network": "GitHub",
+        "username": "heeropunjabi",
+        "url": "https://github.com/heeropunjabi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Extreme Blockchain Labs.",
+      "position": "Engineering Manager",
+      "website": "http://extremeinnovations.com/",
+      "startDate": "2018-06-17",
+      "endDate": "",
+      "summary": "we were building cryptocurrency exchange for Canadian market.",
+      "highlights": [
+        "I was involved and was taking ownership in each and every aspect of engineerning whether its frontend, backend and devops."
+      ]
+    },
+    {
+      "company": "Incedo Inc. ",
+      "position": "Senior Software Engineer",
+      "website": "http://www.incedoinc.com/",
+      "startDate": "2018-03-15",
+      "endDate": "2018-06-15",
+      "summary": "We were working for North American clients.",
+      "highlights": [
+        "I was playing the role of react and nodejs developer. The application was monolithic"
+      ]
+    },
+    {
+      "company": "Amdocs",
+      "position": "Software Engineer",
+      "website": "https://www.amdocs.com/",
+      "startDate": "2015-01-19",
+      "endDate": "2018-03-09",
+      "summary": "We were mostly working for Canadian clients",
+      "highlights": [
+        "I was involed in developing core javascript libraries",
+        "created automation framework also using proctractor.js",
+        "Mainly I was doing Javascript all day long."
+      ]
+    },
+    {
+      "company": "Infosys",
+      "position": "System Engineer",
+      "website": "http://www.infosys.com/",
+      "startDate": "2013-04-22",
+      "endDate": "2015-01-02",
+      "summary": "We were working for North American clients as consultants",
+      "highlights": [
+        "I was involed writing angulrjs(1.5) and java app(java 7)",
+        "It was basically order managements website."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Mumbai",
+      "area": "Information Technology",
+      "studyType": "Bachlors of Engineering",
+      "startDate": "2009-07-07",
+      "endDate": "2012-07-01",
+      "gpa": "6.5",
+      "courses": []
+    },
+    {
+      "institution": "Maharashtra State Board of Technical Education",
+      "area": "Computer Technology",
+      "studyType": "Diploma",
+      "startDate": "2006-07-01",
+      "endDate": "2009-07-01",
+      "gpa": "9.0",
+      "courses": []
+    },
+    {
+      "institution": "Maharashtra State Board of Secondary and Higher Secondary Education",
+      "area": "Secondary Education",
+      "studyType": "Secondary School Certificate",
+      "startDate": "1995-06-06",
+      "endDate": "2006-06-01",
+      "courses": []
+    }
+  ],
+  "publications": [
+    {
+      "name": "Fast Downloader",
+      "publisher": "Heero Productions",
+      "releaseDate": "2014-10-01",
+      "website": "https://play.google.com/store/apps/details?id=com.rndownloader",
+      "summary": "This app facilitates end user to download any youtube video at a very high speed."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hackathon-Winner",
+      "date": "2018-02-01",
+      "awarder": "Amdocs Incorporation",
+      "summary": "First Ranker in the hackathon event- we developed Production debugger"
+    },
+    {
+      "title": "Innovation Award",
+      "date": "2017-12-05",
+      "awarder": "Amdocs Incorporation",
+      "summary": "Innovation award for developing automation framework"
+    },
+    {
+      "title": "Hackathon Award",
+      "date": "2017-07-02",
+      "awarder": "Amdocs Incorporation",
+      "summary": "3rd Prize in Hackathon event."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": [
+        "Express",
+        "Mocha/Chai",
+        "lodash",
+        "JSDoc",
+        "Swagger",
+        "body-parser",
+        "PM2",
+        "Socket.IO",
+        "Underscore",
+        "Passport",
+        "Nodemailer"
+      ]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Master",
+      "keywords": [
+        "React Router",
+        "Redux",
+        "GraphQL",
+        "antd",
+        "jest",
+        "logrocket",
+        "moment",
+        "react-google-charts",
+        "react-idle-timer",
+        "react-iframe",
+        "react-infinite-scroller",
+        "react-recaptcha",
+        "reactour",
+        "socket.io",
+        "steeltoe",
+        "toastr",
+        "webpack"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "Beginer",
+      "keywords": [
+        "Hyperledger Fabric",
+        "Ethereum"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Test-Driven Development",
+        "JIRA",
+        "bash/zsh",
+        "git",
+        "Docker",
+        "Kubernetes",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Cloud and cluster computing",
+      "level": "Advanced",
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud Platform"
+      ]
+    },
+    {
+      "name": "Management/HR",
+      "level": "Intermediate",
+      "keywords": [
+        "Supervising employees",
+        "Outsourcing research and management",
+        "Technical interviewing",
+        "Technical task design"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Django",
+        "flask",
+        "Ruby on Rails",
+        "Bootstrap",
+        "D3",
+        "Selenium",
+        "Stripe",
+        "Netlify"
+      ]
+    },
+    {
+      "name": "End 2 End Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Protractor.js",
+        "puppeteer",
+        "nightwatchjs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "ORMs (Sequelize, Active Record)"
+      ]
+    },
+    {
+      "name": "React-Native",
+      "level": "Advanced",
+      "keywords": [
+        "react-navigation",
+        "Redux",
+        "async-storage",
+        "react-native-admob",
+        "react-native-elements",
+        "react-native-vector-icons",
+        "react-native-webview",
+        "react-native-ytdl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Sindhi",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Overall",
+      "keywords": [
+        "Reading",
+        "Gymming",
+        "Brewing Coffee",
+        "Learning on random paths",
+        "Psychology"
+      ]
+    }
+  ]
+}
